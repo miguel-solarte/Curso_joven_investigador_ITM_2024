@@ -8,7 +8,7 @@
 2. [Entornos de trabajo e instalación de librerías necesarias](#2-entornos-de-trabajo-e-instalación-de-librerías-necesarias)
    - [Entornos venv](#entornos-venv)
    - [Entornos con Anaconda](#entornos-con-anaconda)
-   - [Trabajar en Colab](#trabajar-en-colab)
+   - [Trabajar en Google Colab](#trabajar-en-google-colab)
 3. [Introducción a las secciones](#3-introducción-a-las-secciones)
    - [Sección 1 Generación de datos](#sección-1-generación-de-datos)
    - [Sección 2 K-means](#sección-2-k-means)
@@ -19,9 +19,9 @@
 
 El propósito de este curso es ofrecer una guía sobre algunos modelos de aprendizaje de máquinas (ML, por sus siglas en inglés), específicamente en la rama del aprendizaje no supervisado (modelos de clustering o agrupamiento). Ademas, antes de implementar estos modelos, se ensenara como implementar y crear datos que nos permitan experimentar una vez que los algoritmos tratados en este curso.
 
-# 2 Entornos de trabajo e instalación de librerías necesarias
+# 2. Entornos de trabajo e instalación de librerías necesarias
 
-
+Se presentan tres opciones para crear entornos virtuales y llevar a cabo el curso. Elige la que mejor se ajuste a tus necesidades. Si no estás familiarizado con entornos virtuales (como venv) o con Anaconda, se recomienda utilizar Google Colab para facilitar el proceso.
 
 ## Entornos venv
 
@@ -42,7 +42,7 @@ conda activate mi_entorno
 pip install -r requirements.txt
 ```
 
-## Trabajar en Colab
+## Trabajar en Google Colab
 
 | **Notebook sección 1** | **Notebook sección 2** | **Notebook sección 3** | **Notebook sección 4** |
 |-------------------------|-------------------------|-------------------------|-------------------------|
