@@ -15,18 +15,18 @@
         <li>
             <a href="#2-Instalación-de-librerías-necesarias">Instalación de librerías necesarias</a>
             <ul>
-                <li><a href="#21-Entornos-venv">Entornos venv</a></li>
-                <li><a href="#22-Entornos-con-anaconda">Entornos con Anaconda</a></li>
-                <li><a href="#23-Trabajar-en-colab">Trabajar en Colab</a></li>
+                <li><a href="#Entornos-venv">Entornos venv</a></li>
+                <li><a href="#Entornos-con-anaconda">Entornos con Anaconda</a></li>
+                <li><a href="#Trabajar-en-colab">Trabajar en Colab</a></li>
             </ul>
         </li>
         <li>
             <a href="#3-Introducción-a-las-secciones">Introducción a las secciones</a>
             <ul>
-                <li><a href="#31-Sección-1-Generación-de-datos">Sección 1 Generación de datos</a></li>
-                <li><a href="#32-Sección-2-K-means">Sección 2 K-means</a></li>
-                <li><a href="#33-Sección-3-Spectral-Clustering">Sección 3 Spectral Clustering</a></li>
-                <li><a href="#34-Sección-4-DBSCAN">Sección 4 DBSCAN</a></li>
+                <li><a href="#Sección-1-Generación-de-datos">Sección 1 Generación de datos</a></li>
+                <li><a href="#Sección-2-K-means">Sección 2 K-means</a></li>
+                <li><a href="#Sección-3-Spectral-Clustering">Sección 3 Spectral Clustering</a></li>
+                <li><a href="#Sección-4-DBSCAN">Sección 4 DBSCAN</a></li>
             </ul>
         </li>
     </ol>
@@ -37,7 +37,7 @@
 
 El propósito de este curso es ofrecer una guía sobre algunos modelos de aprendizaje de máquinas (ML, por sus siglas en inglés), específicamente en la rama del aprendizaje no supervisado (modelos de clustering o agrupamiento). Ademas, antes de implementar estos modelos, se ensenara como implementar y crear datos que nos permitan experimentar una vez que los algoritmos tratados en este curso.
 
-# 2. Instalación de librerías necesarias
+# 2 Instalación de librerías necesarias
 
 ## Entornos venv
 
