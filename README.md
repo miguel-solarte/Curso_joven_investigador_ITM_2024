@@ -33,8 +33,6 @@
 
 </body>
 
-
-
 # 1. Introducción al curso
 
 El propósito de este curso es ofrecer una guía sobre algunos modelos de aprendizaje de máquinas (ML, por sus siglas en inglés), específicamente en la rama del aprendizaje no supervisado (modelos de clustering o agrupamiento). Ademas, antes de implementar estos modelos, se ensenara como implementar y crear datos que nos permitan experimentar una vez que los algoritmos tratados en este curso.
