@@ -2,42 +2,26 @@
 
 
 
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Índice del Curso</title>
-</head>
-<body>
-    <h1>Índice</h1>
-    <ol>
-        <li><a href="#1-Introducción-al-curso">Introducción al curso</a></li>
-        <li>
-            <a href="#2-Instalación-de-librerías-necesarias">Instalación de librerías necesarias</a>
-            <ul>
-                <li><a href="#Entornos-venv">Entornos venv</a></li>
-                <li><a href="#Entornos-con-anaconda">Entornos con Anaconda</a></li>
-                <li><a href="#Trabajar-en-colab">Trabajar en Colab</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#3-Introducción-a-las-secciones">Introducción a las secciones</a>
-            <ul>
-                <li><a href="#Sección-1-Generación-de-datos">Sección 1 Generación de datos</a></li>
-                <li><a href="#Sección-2-K-means">Sección 2 K-means</a></li>
-                <li><a href="#Sección-3-Spectral-Clustering">Sección 3 Spectral Clustering</a></li>
-                <li><a href="#Sección-4-DBSCAN">Sección 4 DBSCAN</a></li>
-            </ul>
-        </li>
-    </ol>
+# Índice
 
-</body>
+1. [Introducción al curso](#1-introducción-al-curso)
+2. [Entornos de trabajo e instalación de librerías necesarias](#2-entornos-de-trabajo-e-instalación-de-librerías-necesarias)
+   - [Entornos venv](#entornos-venv)
+   - [Entornos con Anaconda](#entornos-con-anaconda)
+   - [Trabajar en Colab](#trabajar-en-colab)
+3. [Introducción a las secciones](#3-introducción-a-las-secciones)
+   - [Sección 1 Generación de datos](#sección-1-generación-de-datos)
+   - [Sección 2 K-means](#sección-2-k-means)
+   - [Sección 3 Spectral Clustering](#sección-3-spectral-clustering)
+   - [Sección 4 DBSCAN](#sección-4-dbscan)
 
 # 1. Introducción al curso
 
 El propósito de este curso es ofrecer una guía sobre algunos modelos de aprendizaje de máquinas (ML, por sus siglas en inglés), específicamente en la rama del aprendizaje no supervisado (modelos de clustering o agrupamiento). Ademas, antes de implementar estos modelos, se ensenara como implementar y crear datos que nos permitan experimentar una vez que los algoritmos tratados en este curso.
 
-# 2 Instalación de librerías necesarias
+# 2 Entornos de trabajo e instalación de librerías necesarias
+
+
 
 ## Entornos venv
 
