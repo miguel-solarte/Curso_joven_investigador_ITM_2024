@@ -1,18 +1,38 @@
 # Cruso de algoritmos de agrupamiento - Joven investigador ITM 2024
 
 
-# Indice
 
-1. [Introducción al curso](#1-Introducción-al-curso)
-2. [Instalación de librerías necesarias](#2-Instalación-de-librerías-necesarias)
-    - [Entornos venv](#21-Entornos-venv)
-    - [Entornos con Anaconda](#22-Entornos-con-anaconda)
-    - [Trabajar en Colab](#23-Trabajar-en-colab)
-3. [Introducción a las secciones](#3-Introducción-a-las-secciones)
-    - [Sección 1 Generación de datos](#31-Sección-1-Generación-de-datos)
-    - [Sección 2 K-means](#32-Sección-2-K-means)
-    - [Sección 3 Spectral Clustering](#33-Sección-3-Spectral-Clustering)
-    - [Sección 4 DBSCAN](#34-Sección-4-DBSCAN)
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Índice del Curso</title>
+</head>
+<body>
+    <h1>Índice</h1>
+    <ol>
+        <li><a href="#1-Introducción-al-curso">Introducción al curso</a></li>
+        <li>
+            <a href="#2-Instalación-de-librerías-necesarias">Instalación de librerías necesarias</a>
+            <ul>
+                <li><a href="#21-Entornos-venv">Entornos venv</a></li>
+                <li><a href="#22-Entornos-con-anaconda">Entornos con Anaconda</a></li>
+                <li><a href="#23-Trabajar-en-colab">Trabajar en Colab</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="#3-Introducción-a-las-secciones">Introducción a las secciones</a>
+            <ul>
+                <li><a href="#31-Sección-1-Generación-de-datos">Sección 1 Generación de datos</a></li>
+                <li><a href="#32-Sección-2-K-means">Sección 2 K-means</a></li>
+                <li><a href="#33-Sección-3-Spectral-Clustering">Sección 3 Spectral Clustering</a></li>
+                <li><a href="#34-Sección-4-DBSCAN">Sección 4 DBSCAN</a></li>
+            </ul>
+        </li>
+    </ol>
+
+</body>
+
 
 
 # 1. Introducción al curso
@@ -23,17 +43,21 @@ El propósito de este curso es ofrecer una guía sobre algunos modelos de aprend
 
 ## Entornos venv
 
-```
+```sh
 git clone
+cd Curso_joven_investigador_ITM_2024
 python3 -m venv env
 source env/bin/activate
 pip3 install -r requirements.txt
 ```
 ## Entornos con anaconda
 
-```
-git clone
-
+```sh
+git clone 
+cd Curso_joven_investigador_ITM_2024
+conda create --name mi_entorno python=3.9
+conda activate mi_entorno
+pip install -r requirements.txt
 ```
 
 ## Trabajar en Colab
